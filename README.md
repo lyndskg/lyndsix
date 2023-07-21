@@ -1,1 +1,3 @@
 # lyndsix
+
+LINUX FROM SCRATCH TYPE SHIII
